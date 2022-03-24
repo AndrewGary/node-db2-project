@@ -24,6 +24,4 @@ module.exports = {
     ...sharedConfig,
     connection: { filename: './data/testing.db3' },
   },
-
-  useNullAsDefault: true
 }
